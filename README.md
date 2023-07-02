@@ -39,7 +39,7 @@ To use these scripts, follow the steps below:
 
 Here are the scripts included in this repository:
 
-1. `script_name.sh`: Description of what this script does.
+1. [`history_keeper.sh'](): Automatically saves your bash shell history and appends new entries to a designated file.
 2. `script_name.sh`: Description of what this script does.
 3. `script_name.sh`: Description of what this script does.
 4. `script_name.sh`: Description of what this script does.
