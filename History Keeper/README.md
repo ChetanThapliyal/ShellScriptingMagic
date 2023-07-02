@@ -15,7 +15,7 @@ Some common uses of the `history` command include:
 
 ## Usage
 
-1. Download the "history_keeper.sh" script to your desired location.
+1. Download the ['history_keeper.sh'](https://github.com/che01tan/ShellScriptingMagic/blob/main/History%20Keeper/history_keeper.sh) script to your desired location.
 
 2. Make the script executable by running the following command:
 
