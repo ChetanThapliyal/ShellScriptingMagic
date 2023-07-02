@@ -1,9 +1,6 @@
 # ShellScriptingMagic
 This repository contains a collection of wicked cool and functional bash scripts that can make your life as a developer easier.
 
-# Useful Bash Scripts
-
-This repository contains a collection of useful Bash scripts that can assist you in various tasks and automate common operations. Whether you are a developer, system administrator, or just someone who loves working with the command line, these scripts can save you time and effort.
 
 ## Table of Contents
 
