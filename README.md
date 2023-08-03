@@ -43,7 +43,7 @@ Here are the scripts included in this repository:
 2. [project_setup.sh](https://github.com/ChetanThapliyal/ShellScriptingMagic/blob/main/Quick%20Project%20Setup/project_setup.sh): Designed to streamline the process of setting up a new project quickly.
 3. [log_cleaner.sh](https://github.com/ChetanThapliyal/ShellScriptingMagic/blob/main/Log%20Cleaner/log_cleaner.sh): Automatically clean up log files, helping you free up valuable disk space and maintain a tidy development environment.
 4. [IP_detective.sh](https://github.com/ChetanThapliyal/ShellScriptingMagic/blob/main/IP%20Detective/IP_detective.sh): Allows you to quickly and efficiently check the location of an IP address.
-5. [multi_repo_push.sh](): Designed to automate the process of pushing code changes to multiple repositories.
+5. [multi_repo_push.sh](https://github.com/ChetanThapliyal/ShellScriptingMagic/blob/main/Multi%20Repo%20Push/multi_repo_push.sh): Designed to automate the process of pushing code changes to multiple repositories.
 
 Feel free to explore and use these scripts as per your requirements. Each script comes with a brief description of its functionality to help you choose the right one for your task.
 
