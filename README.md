@@ -44,6 +44,7 @@ Here are the scripts included in this repository:
 3. [log_cleaner.sh](https://github.com/ChetanThapliyal/ShellScriptingMagic/blob/main/Log%20Cleaner/log_cleaner.sh): Automatically clean up log files, helping you free up valuable disk space and maintain a tidy development environment.
 4. [IP_detective.sh](https://github.com/ChetanThapliyal/ShellScriptingMagic/blob/main/IP%20Detective/IP_detective.sh): Allows you to quickly and efficiently check the location of an IP address.
 5. [multi_repo_push.sh](https://github.com/ChetanThapliyal/ShellScriptingMagic/blob/main/Multi%20Repo%20Push/multi_repo_push.sh): Designed to automate the process of pushing code changes to multiple repositories.
+6. [auto_revive.sh](https://github.com/ChetanThapliyal/ShellScriptingMagic/blob/main/Auto%20Revive/auto_revive.sh): Monitors a specific process, ensuring it remains active at all times. If the process goes down, AutoRevive steps in to automatically restart it.
 
 Feel free to explore and use these scripts as per your requirements. Each script comes with a brief description of its functionality to help you choose the right one for your task.
 
